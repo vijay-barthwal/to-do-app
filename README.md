@@ -52,8 +52,8 @@ todo-app/
 ### Steps
 ```bash
 # Clone the repo
-git clone <your-repository-url>
-cd To-Do-App
+git clone git@github.com:vijay-barthwal/to-do-app.git
+cd to-do-app
 
 # Start all services
 docker-compose up -d
